@@ -1,69 +1,84 @@
-# Hi there! 👋 I'm Álvaro
+# Hi, I'm Álvaro 👋
 
-### iOS Developer | Swift & SwiftUI | Building Native Mobile Experiences
+### Junior iOS Developer | Swift & SwiftUI
 
-I'm a junior software developer focused on **native iOS development**, passionate about building intuitive, functional, and maintainable applications.
+I'm a software developer with a background in **Multiplatform Application Development**, currently focused on building native iOS applications using modern Apple technologies.
 
-With a background in **Multiplatform Application Development**, I'm currently focused on strengthening my skills in the Apple ecosystem, working with modern technologies and building real-world projects.
+I enjoy transforming ideas into functional applications, designing intuitive interfaces, and writing structured, maintainable code.
 
-My goal is to start my professional career as an **iOS Developer**, contribute to meaningful products, and continue growing alongside experienced development teams.
+🎯 **Currently looking for my first professional opportunity as a Junior iOS Developer.**
 
-## 🚀 Featured Project
-
-### 📚 MangaHub — Manga Discovery & Reading Tracker
-
-A native iOS application that allows users to discover manga, manage a personal collection, and track their reading progress.
-
-**Tech Stack:** Swift · SwiftUI · SwiftData · Swift Concurrency · URLSession · MVVM
-
-**Key Highlights:**
-- REST API integration for manga discovery.
-- Personal manga collection management.
-- Reading progress tracking.
-- MVVM architecture.
-- Local data persistence using SwiftData.
-
-🔗 [Explore MangaHub on GitHub](https://github.com/alvaarofdez20/MangaHub)
+---
 
 ## 🛠️ Tech Stack
 
 **iOS Development**
 
-- Swift & SwiftUI
-- SwiftData
-- Swift Concurrency
-- URLSession & REST APIs
-- MVVM Architecture
-- Xcode
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-**Additional Development Knowledge**
+**Architecture & Development**
 
-- Kotlin
-- Java
-- HTML & CSS
+![MVVM](https://img.shields.io/badge/MVVM-555555?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Tools & Practices**
+**Additional Knowledge**
 
-- Git & GitHub
-- API Integration
-- Object-Oriented Programming
-- Application Architecture
-
-## 🎯 Currently Focused On
-
-- Improving my iOS development skills.
-- Building and refining native applications.
-- Writing maintainable and reusable Swift code.
-- Learning software development best practices.
-- Preparing for my first professional opportunity as an iOS Developer.
-
-## 🤝 Let's Connect
-
-I'm open to **Junior iOS Developer opportunities**, collaborations, and connecting with other developers.
-
-- 💻 [GitHub](https://github.com/alvaarofdez20)
-- 💼 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-fern%C3%A1ndez-de-cordova-orta-a25b40263/)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-*Always learning. Always building.*
+## 🚀 Featured Project
+
+### 📚 MangaHub
+
+**A native iOS application for manga discovery and reading management.**
+
+MangaHub allows users to explore manga titles, build a personal collection, and track their reading progress.
+
+**Technologies:** Swift · SwiftUI · SwiftData · Swift Concurrency · URLSession · MVVM
+
+**Key Features**
+- Manga discovery through REST API integration.
+- Personal manga collection management.
+- Reading progress tracking.
+- Local persistence with SwiftData.
+- MVVM architecture.
+
+🔗 **[View MangaHub Repository](https://github.com/alvaarofdez20/MangaHub)**
+
+---
+
+## 🌱 Currently Learning & Improving
+
+- Advanced Swift and SwiftUI development.
+- Scalable iOS application architecture.
+- Asynchronous programming with Swift Concurrency.
+- Clean code and software development best practices.
+
+---
+
+## 💼 Career Goals
+
+I'm actively seeking my **first opportunity as a Junior iOS Developer**, where I can contribute to real products, learn from experienced engineers, and continue developing my technical skills.
+
+I'm interested in opportunities where I can apply my knowledge of Swift, SwiftUI, API integration, and application architecture.
+
+---
+
+## 📫 Let's Connect
+
+- 💻 **GitHub:** [alvaarofdez20](https://github.com/alvaarofdez20)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/%C3%A1lvaro-fern%C3%A1ndez-de-cordova-orta-a25b40263/)
+
+---
+
+*Building, learning, and improving — one commit at a time.*
