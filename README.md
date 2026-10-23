@@ -26,12 +26,6 @@ I enjoy transforming ideas into functional applications, designing intuitive int
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Additional Knowledge**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
 ---
 
 ## 🚀 Featured Project
@@ -75,7 +69,7 @@ I'm interested in opportunities where I can apply my knowledge of Swift, SwiftUI
 ## 📫 Let's Connect
 
 - 💻 **GitHub:** [alvaarofdez20](https://github.com/alvaarofdez20)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/%C3%A1lvaro-fern%C3%A1ndez-de-cordova-orta-a25b40263/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alvaarofdez20/)
 
 ---
 
